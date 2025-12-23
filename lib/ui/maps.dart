@@ -26,6 +26,7 @@ class _MyAppState extends State<MyApp> {
         _markers[office.name] = marker;
       }
     });
+
   }
 
   @override
